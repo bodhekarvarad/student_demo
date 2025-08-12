@@ -1,2 +1,2 @@
 # student_demo
-this a git and github
+this a git and github.
